@@ -1,4 +1,4 @@
 habitat
 =======
 
-The smart thermistat creates a comfortable habitat
+The smart thermistat that creates a comfortable habitat
